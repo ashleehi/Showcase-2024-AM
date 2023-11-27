@@ -1,0 +1,92 @@
+body {
+    background-image:url(background.jpg);
+    background-size: contain;
+    /* background-attachment: fixed; */
+}
+
+h1, h2 {
+    color: white;
+}
+
+h2 {
+    text-align: right;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.concessions {
+    display: flex;
+    justify-content:center;
+    font-size: 60px;
+    border-color: 5px black;
+}
+
+.first {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+
+}
+
+.dinodutchlogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.jurassicjavalogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.dinodotslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.bronchibobalogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.chompinchurroslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.aguasfrescaslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.sattlersslushieslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.vasosdefrutaslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.icecreamlogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
+
+.donutslogo {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.3);
+    margin: 80px;
+}
