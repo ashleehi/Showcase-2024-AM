@@ -9,7 +9,148 @@ h1, h2 {
 }
 
 h2 {
-    text-align: right;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: rgb(141, 21, 21);
+}
+
+a:hover {
+    color: rgb(225, 152, 42);
+}
+
+
+.clevergirl {
+    position: absolute;
+    left: 500px;
+    top:800px;
+    
+}
+
+.clevergirllocation {
+    position: absolute;
+    left: 500px;
+    top:900px;
+}
+
+.clevergirlbutton {
+    position: absolute;
+    left: 500px;
+    top:1100px;
+    
+}
+
+.dinodutch {
+    position: absolute;
+    left: 500px;
+    top:1325px;
+}
+
+.dinodutchlocation {
+    position: absolute;
+    left: 500px;
+    top:1425px;
+}
+
+.dinodutchbutton {
+    position: absolute;
+    left: 500px;
+    top:1625px;
+}
+
+.jurassicjava {
+    position: absolute;
+    left: 500px;
+    top:1800px;
+}
+
+.jurassicjavalocation {
+    position: absolute;
+    left: 500px;
+    top:1900px;
+}
+
+.jurassicjavabutton {
+    position: absolute;
+    left: 500px;
+    top:2100px;
+}
+
+.dinodots {
+    position: absolute;
+    left: 500px;
+    top:2300px;
+}
+
+.dippindotslocation {
+    position: absolute;
+    left: 500px;
+    top:2400px;
+}
+
+.dinodotsbutton {
+    position: absolute;
+    left: 500px;
+    top:2600px;
+}
+
+.bronchiboba {
+    position: absolute;
+    left: 500px;
+    top:2750px;
+}
+
+.bronchibobalocation {
+    position: absolute;
+    left: 500px;
+    top:2850px;
+}
+
+.bronchibobabutton {
+    position: absolute;
+    left: 500px;
+    top:3050px;
+}
+
+.chompinchurros {
+    position: absolute;
+    left: 500px;
+    top:3250px;
+}
+
+.chompinchurroslocation {
+    position: absolute;
+    left: 500px;
+    top:3350px;
+}
+
+.chompinchurrosbutton {
+    position: absolute;
+    left: 500px;
+    top:3550px;
+}
+
+.aguasfrescas {
+    position: absolute;
+    left: 500px;
+    top:800px;
+}
+
+.aguasfrescaslocation {
+    position: absolute;
+    left: 500px;
+    top:800px;
+}
+
+.aguasfrescasbutton {
+    position: absolute;
+    left: 500px;
+    top:800px;
 }
 
 .logo {
@@ -26,67 +167,73 @@ h2 {
 
 .first {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 
 }
 
 .dinodutchlogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .jurassicjavalogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
+}
+
+.jurrasicjava {
+    position: absolute;
+    left: 500px;
+    top:2000px; 
 }
 
 .dinodotslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .bronchibobalogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .chompinchurroslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .aguasfrescaslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .sattlersslushieslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .vasosdefrutaslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .icecreamlogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
 
 .donutslogo {
     background-color: white;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.4);
     margin: 80px;
 }
