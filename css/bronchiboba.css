@@ -1,13 +1,59 @@
 body {
     background-image: url(/images/bronchibobabackground.png);
+    background-size: cover;
 }
 
-h1,
-h2 {
+h1 {
+    position:absolute;
+    top:1%;
+    left:45%;
     color: white;
+    font-size: 300%;
 }
 
-ul {
+.specialties {
+    position:absolute;
+    top:8%;
+    left:45%;
     color: white;
+    font-size: 300%;
+}
 
+.specialmenu {
+    position:absolute;
+    top:14%;
+    left:36%;
+    color: white;
+    font-size: 250%;
+}
+
+.milktea {
+    position:absolute;
+    top:40%;
+    left:45%;
+    color: white;
+    font-size: 300%;
+}
+.milkmenu {
+    position:absolute;
+    top:47%;
+    left:36%;
+    color: white;
+    font-size: 250%;
+}
+
+.fruittea {
+    position:absolute;
+    top:80%;
+    left:45%;
+    color: white;
+    font-size: 300%;
+}
+
+.fruitmenu {
+    position:absolute;
+    top:86%;
+    left:36%;
+    color: white;
+    font-size: 250%;
 }

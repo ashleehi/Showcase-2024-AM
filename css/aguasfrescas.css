@@ -1,21 +1,28 @@
 body {
     background-image: url(/images/aguasbackground.png);
-    background-size: fill;
+    background-size: cover;
 }
 
-h1, h2 {
+.aguastitle {
+    position: absolute;
+    top:1%;
+    left:42%;
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    text-align: center;
+    font-size: 300%;
 }
 
-ul {
-    display: flex;
+.aguasflavors {
+    position: absolute;
+    top:10%;
+    left:45%;
     color: white;
-    justify-content: center;
-    text-align: center;
-    align-items: flex-start;
+    font-size: 300%;
 }
 
+.aguasmenu {
+    position: absolute;
+    top:17%;
+    left:44%;
+    color: white;
+    font-size: 250%;
+}
