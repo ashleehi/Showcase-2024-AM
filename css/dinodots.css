@@ -1,3 +1,24 @@
 body {
     background-image: url(/images/dinodotsbackground.png);
 }
+
+h1 {
+    position: absolute;
+    top:1%;
+    left: 45%;
+    color:white;
+}
+
+h2 {
+    position: absolute;
+    top: 8%;
+    left:47%;
+    color: white;
+}
+
+ul {
+    position: absolute;
+    top: 13%;
+    left: 45%;
+    color: white;
+}

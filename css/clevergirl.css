@@ -7,3 +7,38 @@ body {
     display: flex;
     justify-content: center;
 }
+
+h1 {
+    position:absolute;
+    top: 25%;
+    left: 45%;
+    color: white;
+}
+
+.drinks {
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    color: white;
+}
+
+.drinkmenu {
+    position:absolute;
+    top: 35%;
+    left:43%;
+    color:white;
+}
+
+.snacks {
+    position: absolute;
+    top: 60%;
+    left:45%;
+    color:white;
+}
+
+.snacksmenu {
+    position: absolute;
+    top: 65%;
+    left: 43%;
+    color: white;
+}
