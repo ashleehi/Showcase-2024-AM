@@ -1,0 +1,12 @@
+a {
+    color: white;
+    font-size: 200%;
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(225, 152, 42);
+}

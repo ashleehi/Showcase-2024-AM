@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/CleverGirl.jpg);
+    background-color:rgb(120,141,124);
 }
 
 
@@ -13,32 +13,61 @@ h1 {
     top: 25%;
     left: 45%;
     color: white;
+    font-size: 350%;
 }
 
 .drinks {
     position: absolute;
-    top: 30%;
+    top: 32%;
     left: 42%;
     color: white;
+    font-size: 300%;
 }
 
 .drinkmenu {
     position:absolute;
-    top: 35%;
-    left:43%;
+    top: 37%;
+    left:45%;
     color:white;
+    font-size: 250%;
 }
 
 .snacks {
     position: absolute;
-    top: 60%;
+    top: 94%;
     left:45%;
     color:white;
+    font-size: 300%;
 }
 
 .snacksmenu {
     position: absolute;
-    top: 65%;
+    top: 100%;
     left: 43%;
     color: white;
+    font-size: 250%;
+}
+
+.clevergirl {
+     position: absolute;
+    top: 5%;
+}
+
+.clevergirltwo {
+  position: absolute;
+  top: 5%;
+  left: 80%;
+}
+
+a {
+    color: white;
+    font-size: 200%;
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(225, 152, 42);
 }

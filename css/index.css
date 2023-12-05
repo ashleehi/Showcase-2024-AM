@@ -359,3 +359,23 @@ a:hover {
     left: 48%;
     top: 360%;
 }
+
+@media only screen and (max-width:640px){
+    #products {
+        grid-template-columns: 1fr;
+        padding: 1em;
+    }
+
+    .clevergirl {
+       display: flex;
+       justify-content: center;
+       align-items: flex-start;
+    }
+
+    .clevergirllocation {
+        display:flex;
+        justify-content: flex-start;
+    }
+
+
+}
