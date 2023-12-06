@@ -1,5 +1,6 @@
 body {
-    background-image: url(/images/icecream.jpg);
+    background-image: url(/images/dinodutchbackground.png);
+    background-size: cover;
 }
 
 a {
@@ -13,4 +14,26 @@ a:visited {
 
 a:hover {
     color: rgb(225, 152, 42);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 400%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 300%;
+    color: white;
+}
+
+ul {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 225%;
 }

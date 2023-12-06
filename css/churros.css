@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(120, 98, 72);
+    background-image: url(/images/bronchibobabackground.png);
+    background-size: cover;
 }
 
 

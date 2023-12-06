@@ -1,5 +1,6 @@
 body {
     background-image: url(/images/jurassicjavabackground.png);
+    background-size: cover;
 }
 
 a {
@@ -13,4 +14,79 @@ a:visited {
 
 a:hover {
     color: rgb(225, 152, 42);
+}
+.jurassicjavalogo2 {
+    position: absolute;
+    top:4%;
+    left:85%;
+}
+
+.jurassic {
+    position:absolute;
+    top:5%;
+    left:43%;
+    font-size:500%;
+    color:white;
+}
+
+.java {
+    position: absolute;
+    top: 13%;
+    left: 45%;
+    font-size:500%;
+    color:white;
+}
+
+.raptorcinno {
+    position: absolute;
+    top:35%;
+    left:10%;
+    font-size:300%;
+    color: white;
+}
+
+.raptorcinnomenu {
+    position: absolute;
+    top:40%;
+    left:8%;
+    font-size:250%;
+    color: white;
+}
+
+.jurassicjava {
+    position: absolute;
+    top:35%;
+    left:45%;
+    font-size:300%;
+    color: white;
+}
+
+.javamenu {
+    position: absolute;
+    top:40%;
+    left:40%;
+    font-size:250%;
+    color: white;
+}
+
+.rexfreshers {
+    position: absolute;
+    top:35%;
+    left:80%;
+    font-size:300%;
+    color: white;
+}
+
+.rexfreshersmenu {
+    position: absolute;
+    top:40%;
+    left:78%;
+    font-size:250%;
+    color: white;
+}
+
+p.double {
+    border-style: double;
+    color: white;
+    height: max-content;
 }

@@ -1,6 +1,6 @@
 body {
-    background-image: url(/images/dinodotbackground.png);
-    background-size: fill;
+    background-image: url(/images/aguasbackground.png);
+    background-size: cover;
 }
 
 h1 {
@@ -25,8 +25,6 @@ h2 {
     left: 19%;
     color: rgb(255, 255, 255);
     font-size: 300%;
-    background-color: rgb(0, 0, 0);
-    opacity: 0.6;
 }
 
 .two {
@@ -35,8 +33,6 @@ h2 {
     left:55%;
     color: rgb(255, 255, 255);
     font-size: 300%;
-    background-color: rgb(0, 0, 0);
-    opacity: 0.6;
 }
 
 

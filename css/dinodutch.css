@@ -5,51 +5,58 @@ body {
 
 h1 {
     position:absolute;
-    top:1%;
-    left:45%;
+    top:15%;
+    left:41%;
     color: white;
+    font-size: 400%;
 }
 
 .classics {
     position:absolute;
-    top:6%;
-    left:45%;
+    top:27%;
+    left:15%;
     color: white;
+    font-size: 300%;
 }
 
 .classicsmenu {
     position:absolute;
-    top:10%;
-    left:45%;
+    top:37%;
+    left:3%;
     color: white;
+    font-size: 215%;
 }
 
 .rebels {
     position:absolute;
-    top:28%;
-    left:45%;
+    top:27%;
+    left:65%;
     color: white;
+    font-size: 300%;
 }
 
 .rebelmenu {
     position:absolute;
-    top:32%;
-    left:45%;
+    top:37%;
+    left:47.5%;
     color: white;
+    font-size: 215%;
 }
 
 .coldbrew {
     position:absolute;
-    top:45%;
-    left:45%;
+    top:74%;
+    left:41%;
     color: white;
+    font-size: 300%;
 }
 
 .coldbrewmenu {
     position:absolute;
-    top:50%;
-    left:45%;
+    top:83%;
+    left:39%;
     color: white;
+    font-size: 215%;
 }
 
 a {
