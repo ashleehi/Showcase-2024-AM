@@ -8,42 +8,44 @@ body {
     justify-content: center;
 }
 
+.clevergirl {
+    display:block;
+    justify-content: center;
+}
+
 h1 {
-    position:absolute;
-    top: 25%;
-    left: 45%;
+   display:flex;
+   justify-content: center;
+   text-align: center;
     color: white;
     font-size: 350%;
 }
 
 .drinks {
-    position: absolute;
-    top: 32%;
-    left: 42%;
+    display: block;
+    text-align: center;
     color: white;
     font-size: 300%;
 }
 
 .drinkmenu {
-    position:absolute;
-    top: 37%;
-    left:45%;
+    display: block;
+    text-align: center;
     color:white;
     font-size: 250%;
 }
 
 .snacks {
-    position: absolute;
-    top: 94%;
-    left:45%;
+    display: block;
+    justify-content: center;
+    text-align: center;
     color:white;
     font-size: 300%;
 }
 
 .snacksmenu {
-    position: absolute;
-    top: 100%;
-    left: 43%;
+    display: block;
+    text-align: center;
     color: white;
     font-size: 250%;
 }
@@ -54,9 +56,9 @@ h1 {
 }
 
 .clevergirltwo {
-  position: absolute;
-  top: 5%;
-  left: 80%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content:flex-start;
 }
 
 a {
@@ -70,4 +72,12 @@ a:visited {
 
 a:hover {
     color: rgb(225, 152, 42);
+}
+
+@media only screen and (max-width:640px){
+    #products {
+        grid-template-columns: 1fr;
+        padding: 1em;
+        
+    }
 }

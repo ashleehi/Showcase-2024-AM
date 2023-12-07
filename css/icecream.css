@@ -33,7 +33,7 @@ h2 {
 ul {
     display: block;
     text-align: center;
-    justify-content: center;
+    align-content: center;
     color: white;
     font-size: 225%;
 }
