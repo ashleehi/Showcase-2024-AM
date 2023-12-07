@@ -1,6 +1,7 @@
 body {
     background-image: url(/images/dinodutchbackground.png);
     background-size: cover;
+    background-attachment:fixed;
 }
 
 a {
@@ -24,16 +25,15 @@ h1 {
 }
 
 h2 {
-    display: flex;
+    display:flex;
     justify-content: center;
-    font-size: 300%;
     color: white;
+    font-size: 325%;
 }
 
-ul {
+.flavors {
     display: block;
     text-align: center;
-    align-content: center;
-    color: white;
-    font-size: 225%;
+    color:white;
+    font-size: 300%;
 }

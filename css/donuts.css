@@ -1,5 +1,7 @@
 body {
     background-image: url(/images/donutbackground.png);
+    background-size: contain;
+    background-attachment: fixed;
 }
 
 a {
@@ -13,4 +15,25 @@ a:visited {
 
 a:hover {
     color: rgb(225, 152, 42);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size:400%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 325%;
+}
+
+.flavors {
+    display: block;
+    text-align: center;
+    color: white;
+    font-size:300%;
 }

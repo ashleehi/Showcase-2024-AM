@@ -14,3 +14,10 @@ a:visited {
 a:hover {
     color: rgb(225, 152, 42);
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 400%;
+}
