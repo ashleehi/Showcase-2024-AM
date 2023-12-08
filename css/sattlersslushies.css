@@ -5,7 +5,8 @@ body {
 
 a {
     color: white;
-    font: 200%;
+    font-size: 300%;
+    position: fixed;
 }
 
 a:visited {
@@ -13,5 +14,31 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(225, 152, 42);
+    color: rgb(10, 117, 23);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 400%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 350%;
+}
+
+.menu {
+    width: 550px;
+    margin: 0 auto;   
+}
+
+.one {
+    display: block;
+    /* text-align: center; */
+    color: white;
+    font-size: 325%;
 }

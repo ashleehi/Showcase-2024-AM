@@ -2,15 +2,38 @@ body {
     background-color:rgb(120,141,124);
 }
 
+header {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.menu {
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    overflow: hidden;
+}
 
 .clevergirllogo {
     display: flex;
     justify-content: center;
+    width: 60%;
+}
+
+.clevergirllogo img {
+    object-fit: contain;
 }
 
 .clevergirl {
     display:block;
-    justify-content: center;
+    width: 30%;
 }
 
 h1 {
@@ -30,7 +53,7 @@ h1 {
 
 .drinkmenu {
     display: block;
-    text-align: center;
+    /* text-align: center; */
     color:white;
     font-size: 250%;
 }
@@ -45,25 +68,16 @@ h1 {
 
 .snacksmenu {
     display: block;
-    text-align: center;
+    /* text-align: center; */
     color: white;
     font-size: 250%;
 }
 
-.clevergirl {
-     position: absolute;
-    top: 5%;
-}
-
-.clevergirltwo {
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content:flex-start;
-}
 
 a {
     color: white;
     font-size: 200%;
+    position: fixed;
 }
 
 a:visited {
@@ -71,7 +85,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(225, 152, 42);
+    color: rgb(10, 117, 23);
 }
 
 @media only screen and (max-width:640px){

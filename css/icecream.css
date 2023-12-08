@@ -4,9 +4,15 @@ body {
     background-attachment:fixed;
 }
 
+.menu {
+    width: 500px;
+    margin: 0 auto;   
+}
+
 a {
     color: white;
     font-size: 200%;
+    position: fixed;
 }
 
 a:visited {
@@ -14,7 +20,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(225, 152, 42);
+    color: rgb(10, 117, 23);
 }
 
 h1 {
@@ -33,7 +39,7 @@ h2 {
 
 .flavors {
     display: block;
-    text-align: center;
+    /* text-align: center; */
     color:white;
     font-size: 300%;
 }

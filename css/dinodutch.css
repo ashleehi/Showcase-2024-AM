@@ -1,40 +1,44 @@
 body {
     background-image: url(/images/dinodutchbackground.png);
     background-size: cover;
+    background-attachment: fixed;
+}
+
+.menu {
+    width: 500px;
+    margin: 0 auto;
+
 }
 
 h1 {
-    display: block;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     color: white;
     font-size: 400%;
 }
 
 .classics {
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
     color: white;
     font-size: 300%;
 }
 
 .classicsmenu {
-    display: flex;
-    justify-content: space-evenly;
+    display: block;
     color: white;   
     font-size: 250%;
 }
 
 .rebels {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-around;
+    justify-content: center;
     color: white;
     font-size: 300%;
 }
 
 .rebelmenu {
-    display: flex;
-    justify-content: space-evenly;
+    display: block;
     color: white;
     font-size: 250%;
 }
@@ -47,8 +51,7 @@ h1 {
 }
 
 .coldbrewmenu {
-    display: flex;
-    justify-content: center;
+    display: block;
     color: white;
     font-size: 250%;
 }
@@ -56,6 +59,7 @@ h1 {
 a {
     color: white;
     font-size: 200%;
+    position: fixed;
 }
 
 a:visited {
@@ -63,5 +67,5 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(225, 152, 42);
+    color: rgb(10, 117, 23);
 }

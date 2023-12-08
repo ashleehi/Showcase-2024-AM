@@ -23,7 +23,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(225, 152, 42);
+    color: rgb(10, 117, 23);
 }
 
 
@@ -364,6 +364,10 @@ a:hover {
     #products {
         grid-template-columns: 1fr;
         padding: 1em;
+    }
+
+    .clevergirl {
+        
     }
 
     
